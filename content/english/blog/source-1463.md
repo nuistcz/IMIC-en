@@ -24,9 +24,30 @@ The conference not only focused on the academic frontier and industrial transfor
 
 During the meeting, João Sàágua, President of the New University of Lisbon in Portugal, and his delegation visited our school to further promote the strategic cooperation between the two universities and the joint establishment of the China-Europe Medical Artificial Intelligence Institute. The delegation visited the China-Europe Institute of Medical Artificial Intelligence in Linjiang Building and observed a demonstration project based on multi-modal physiological signal technology to restore the hand movements of an artist playing the small sanxian in "The Romance of the West Chamber". This research project was co-initiated with Professor Tan Xin, Director of the Music Education Department of the School of Music of Nanjing Normal University. By collecting electromyographic signals and motion acceleration data, the system accurately analyzed the performance movements and states, reflecting the innovative application of artificial intelligence in the intersection of cultural heritage and medical health. Next, Xu Jun introduced to President João Sàágua the work of the Jiangsu University Key Laboratory of Intelligent Medical Image Computing in computational pathology and image analysis, and the plan of the laboratory and the China-Europe Medical Artificial Intelligence Institute to integrate two-dimensional image data with one-dimensional physiological signals for disease analysis and early prevention and early warning.
 
+<div class="imic-article-video" style="--video-aspect: 979 / 506">
+  <video controls preload="metadata" playsinline aria-label="2025 International Medical Artificial Intelligence Conference and Artificial Intelligence Summer School were successfully held: jointly drawing a new blueprint for smart medical care">
+    <source src="https://imic.nuist.edu.cn/__local/B/D7/1E/6186C9367CF84D5DDFE492E5E10_91BA943D_DDDA13B.mp4?e=.mp4" type="video/mp4">
+    Your browser does not support HTML5 video.
+  </video>
+</div>
+
 Video 1: João Sàágua, President of the New University of Lisbon in Portugal, and his delegation visited the China-Europe Institute of Medical Artificial Intelligence
 
+<div class="imic-article-video" style="--video-aspect: 984 / 539">
+  <video controls preload="metadata" playsinline aria-label="2025 International Medical Artificial Intelligence Conference and Artificial Intelligence Summer School were successfully held: jointly drawing a new blueprint for smart medical care">
+    <source src="https://imic.nuist.edu.cn/__local/1/B8/3D/AE8664B10D9A290FBDAF9F5FBE2_D558D2CE_6A715E.mp4?e=.mp4" type="video/mp4">
+    Your browser does not support HTML5 video.
+  </video>
+</div>
+
 Video 2: The artist plays the "Yingying Tingqin" in Xiao Sanxian's "The Romance of the West Chamber". By using the wearable sensor developed by SEAM, the electromyographic signal and motion acceleration data are collected in real time, and the system accurately analyzes the movements and status of the Xiao Sanxian's "The Romance of the West Chamber".
+
+<div class="imic-article-video" style="--video-aspect: 988 / 492">
+  <video controls preload="metadata" playsinline aria-label="2025 International Medical Artificial Intelligence Conference and Artificial Intelligence Summer School were successfully held: jointly drawing a new blueprint for smart medical care">
+    <source src="https://imic.nuist.edu.cn/__local/8/CC/C5/445B82E912B04A7DECA02F4E726_0AED92B6_4CAD59.mp4?e=.mp4" type="video/mp4">
+    Your browser does not support HTML5 video.
+  </video>
+</div>
 
 Video 3: Demonstrates the use of a lightweight and convenient wearable sensor developed by SEAM attached to the artist's wrist to collect myoelectric signals and motion acceleration data in real time, and the system accurately analyzes performance movements and status.
 
@@ -56,7 +77,7 @@ Professor Hamada Rizk from Osaka University, Japan, brought a topic titled "Smar
 
 A closed-door meeting of experts was held from 16:00 to 17:00. The participating scholars had in-depth exchanges on hot issues and development directions of medical AI, and reached a preliminary consensus on holding larger-scale international conferences in the future.
 
-![2025 International Medical Artificial Intelligence Conference and Artificial Intelligence Summer School were successfully held: jointly drawing a new blueprint for smart medical care](https://imic.nuist.edu.cn/__local/7/B3/F3/7E82400A7904B1A936D29FBC24A_A9E06741_1AA3EF.png)
+![2025 International Medical Artificial Intelligence Conference and Artificial Intelligence Summer School were successfully held: jointly drawing a new blueprint for smart medical care](/images/articles/source-1463/01.webp)
 
 Pictured: Speakers at the conference. First row: João Sàágua, President of the New University of Lisbon, Portugal; Academician Qin Ling of the Chinese University of Hong Kong; Professor Hugo Gamboa of the New University of Lisbon, Portugal; Professor Giovanni Saggio of the Sapienza University of Rome, Italy; Second row: Professor Ana Londral of the New University of Lisbon, Portugal; Professor Zhou Huiyu of the University of Leicester, the United Kingdom; Professor Hamada Rizk of Osaka University, Japan; Professor Kim Jeong-sil of Kyungpook National University, South Korea.
 
